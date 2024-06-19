@@ -1,5 +1,5 @@
 public class majority_element {
-    // brute-force-approach
+    // moore_voting_algorithm
     
     public static int findMajorityElement(int[] arr) {
         int candidate = -1;
